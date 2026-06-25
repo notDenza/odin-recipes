@@ -1,9 +1,18 @@
 # Odin Recipes
 
-🔗 **Live demo:** https://notdenza.github.io/odin-recipes/
+ **Live demo:** https://notdenza.github.io/odin-recipes/
 
-This project is my first website built as part of The Odin Project Foundations course. The objective is to create a simple recipe website using only HTML.
+This is my first website, built as part of The Odin Project Foundations course. It's a simple recipe site made with HTML and CSS.
 
-By the end of this project, I will have practiced creating web pages, linking them together, adding images, and organizing content with headings, paragraphs, and lists. I will also gain more experience using Git and GitHub to track and manage my work.
+Building it gave me practice creating web pages, linking them together, adding images, organizing content with headings, paragraphs, and lists, and styling pages with CSS. I also gained more experience using Git and GitHub to track and manage my work.
 
-Although the website will be simple, it will serve as a solid foundation for the CSS and JavaScript topics that come later in the course.
+## Recipes
+
+- [Authentic Lasagna](recipes/lasagna.html)
+- [Fluffy Pancakes](recipes/pancakes.html)
+- [Classic Lemonade](recipes/lemonade.html)
+- [Pizza Napoletana](recipes/pizza.html)
+- [Algerian Rechta](recipes/rechta.html)
+- [Espresso Martini](recipes/espresso-martini.html)
+
+Although the site is simple, it's a solid foundation for the JavaScript topics that come later in the course.
